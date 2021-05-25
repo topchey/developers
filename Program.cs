@@ -12,6 +12,7 @@ namespace ConsoleApp17
         {
             Console.WriteLine("Instruction 1");
             Console.WriteLine("Instruction 2");
+            Console.WriteLine("Instruction 3");
         }
     }
 }
